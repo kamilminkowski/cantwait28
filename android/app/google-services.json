@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859580424251",
+    "project_id": "natoczekam",
+    "storage_bucket": "natoczekam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859580424251:android:802bad1970023ed7bbfc1e",
+        "android_client_info": {
+          "package_name": "com.kamilminkowski.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859580424251-a5vrcb69svb4ov889tvfl21bf40cdsqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72jFABG7z110SNBIteaCmVGaBxeU3JVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859580424251-a5vrcb69svb4ov889tvfl21bf40cdsqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
